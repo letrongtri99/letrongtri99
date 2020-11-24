@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/lê trọng trí" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="lê trọng trí" height="30" width="40" /></a>
+<a href="https://fb.com/letrong.tri.1/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="lê trọng trí" height="30" width="40" /></a>
 <a href="https://instagram.com/letrongtri99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="letrongtri99" height="30" width="40" /></a>
 </p>
 
